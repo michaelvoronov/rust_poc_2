@@ -9,4 +9,4 @@ name = "test"
 path = "src/lib.rs"
 
 [dependencies]
-syn = { version = '0.15.0', features = ['full'] }
+syn = { version = '0.15.43', features = ['full'] }
